@@ -1,13 +1,17 @@
 # Zaichko Mikhail
 ![photo](./portfolio.jpg "Portfolio photo")
+
 ******
+
 ## Full-Stack Developer
-******
+
 ## Contact information
 * e-mail: zm91672@gmail.com
 * phone: +998900024586
 * telegram: @JustAlreadyTaken
+
 ******
+
 ## About Myself:
 My experience covers comprehensive work with websites and third party API payment systems and delivery systems on various platforms. Proficient in writing themes and plugins for CMS Wordpress plugin woocommerce including as REST API, as well as native PHP development using HTML, SCSS and JavaScript, including the Laravel framework. Experience working with someone else’s code, including legacy projects.
 

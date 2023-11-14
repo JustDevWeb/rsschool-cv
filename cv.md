@@ -1,10 +1,9 @@
 # Zaichko Mikhail
 ![photo](./portfolio.jpg "Portfolio photo")
 
-******
-
 ## Full-Stack Developer
 
+******
 ## Contact information
 * e-mail: zm91672@gmail.com
 * phone: +998900024586

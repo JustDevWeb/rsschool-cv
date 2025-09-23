@@ -1,1 +1,1 @@
-# sschool-cv
+https://JustDevWeb.github.io/rsschool-cv/
